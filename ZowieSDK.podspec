@@ -32,7 +32,7 @@ Pod::Spec.new do |spec|
   spec.dependency "Apollo", "~> 0.49.1"
   spec.dependency "Apollo/WebSocket", "~> 0.49.1"
   spec.dependency "Kingfisher", "~> 7.10.2"
-  spec.dependency "lottie-ios", "~> 4.4.1"
+  spec.dependency "lottie-ios", "~> 4.2.0"
 
 end
 
