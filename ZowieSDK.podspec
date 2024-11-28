@@ -29,7 +29,7 @@ Pod::Spec.new do |spec|
 
   spec.pod_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
 
-  spec.dependency "Apollo", "~> 0.49.1"
+  spec.dependency "Apollo"
   spec.dependency "Apollo/WebSocket", "~> 0.49.1"
   spec.dependency "Kingfisher", "~> 7.0"
   spec.dependency "lottie-ios", "4.4.1"
